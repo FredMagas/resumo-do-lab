@@ -1,4 +1,4 @@
-# resumo-do-lab
+# resumo-do-lab-servicos-nuvem
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
 
 # O que eu Aprendi sobre Conceitos Básicos do Microsoft Azure (AZ-900)
